@@ -1,7 +1,7 @@
 # ¡Hola! Soy Leandro 👋
 
 ### 🚀 Front End Developer | AI-Assisted Builder
-Desarrollador enfocado en crear soluciones digitales para E-commerce. Mi metodología de trabajo integra el desarrollo Front End sólido con el uso estratégico de **Inteligencia Artificial** para optimizar la lógica de programación y acelerar la entrega de productos funcionales.
+Desarrollador enfocado en crear soluciones digitales. Mi metodología de trabajo integra el desarrollo Front End sólido con el uso estratégico de **Inteligencia Artificial** para optimizar la lógica de programación y acelerar la entrega de productos funcionales.
 
 ---
 
@@ -43,13 +43,6 @@ Como desarrollador moderno, utilizo la **Inteligencia Artificial** como un copil
 * **Optimización de Lógica:** Resolución de algoritmos en JavaScript y Python básico.
 * **Eficiencia:** Reducción de tiempos en tareas repetitivas y debugging.
 * **Escalabilidad:** Refactorización de código para asegurar que sea mantenible y limpio.
-
----
-
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeanRen&show_icons=true&theme=tokyonight&border_radius=10" alt="Estadísticas de LeanRen" />
-</p>
 
 ---
 
