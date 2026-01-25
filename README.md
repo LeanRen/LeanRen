@@ -1,7 +1,7 @@
 # ¡Hola! Soy Leandro 👋
 
 ### 🚀 Front End Developer | AI-Assisted Builder
-Desarrollador enfocado en crear soluciones digitales. Mi metodología de trabajo integra el desarrollo Front End sólido con el uso estratégico de **Inteligencia Artificial** para optimizar la lógica de programación y acelerar la entrega de productos funcionales.
+Desarrollador enfocado en crear soluciones digitales estéticas y funcionales. Mi metodología de trabajo integra el desarrollo Front End sólido con el uso estratégico de **Inteligencia Artificial** para optimizar la lógica de programación y acelerar la entrega de productos de alta calidad.
 
 ---
 
@@ -26,26 +26,27 @@ Desarrollador enfocado en crear soluciones digitales. Mi metodología de trabajo
 
 ## 📂 Proyectos Realizados
 
-### 🛒 [Wal-Fari](https://wal-fari.web.app/)
-Plataforma de ventas con una interfaz limpia y gestión eficiente de productos.
+### 📸 [Wal-Fari](https://wal-fari.web.app/)
+Sitio web profesional para fotógrafo, diseñado para resaltar el contenido visual con una estética minimalista.
 * **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Firebase.
-* **Enfoque:** Lógica de carrito y persistencia de datos optimizada con asistencia de IA.
+* **Highlight:** Implementación de galerías dinámicas y optimización de carga de imágenes.
 
 ### 📦 [LER Importaciones](https://ler-importaciones.web.app/)
 Catálogo digital interactivo diseñado para facilitar la visualización de productos importados.
 * **Tech Stack:** HTML, CSS, JavaScript, Bootstrap.
-* **Enfoque:** Diseño responsive y navegación fluida.
+* **Highlight:** Diseño 100% responsivo y navegación fluida orientada al usuario.
 
 ---
 
 ## 🤖 Mi metodología con IA
-Como desarrollador moderno, utilizo la **Inteligencia Artificial** como un copiloto técnico para:
+Utilizo la **Inteligencia Artificial** como un copiloto técnico estratégico para:
 * **Optimización de Lógica:** Resolución de algoritmos en JavaScript y Python básico.
-* **Eficiencia:** Reducción de tiempos en tareas repetitivas y debugging.
-* **Escalabilidad:** Refactorización de código para asegurar que sea mantenible y limpio.
+* **Eficiencia en Debugging:** Identificación rápida de errores y mejora del rendimiento.
+* **Escalabilidad:** Refactorización de código para asegurar que sea limpio y fácil de mantener.
+
 
 ---
 
 ## 📫 Conectemos
-* **LinkedIn:** www.linkedin.com/in/leandroren
-* **Email:** leandro.ren@hotmail.com
+* **LinkedIn:** [Leandro Ren](https://www.linkedin.com/in/leandroren/)
+* **Email:** [tu-correo@ejemplo.com]
