@@ -1,16 +1,58 @@
-## Hi there 👋
+# ¡Hola! Soy Leandro 👋
 
-<!--
-**LeanRen/LeanRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Front End Developer | AI-Assisted Builder
+Desarrollador enfocado en crear soluciones digitales para E-commerce. Mi metodología de trabajo integra el desarrollo Front End sólido con el uso estratégico de **Inteligencia Artificial** para optimizar la lógica de programación y acelerar la entrega de productos funcionales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+
+**Desarrollo Front End & Base de Datos:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,firebase" />
+</p>
+
+**Otros lenguajes y Control de Versiones:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,git,github,vscode" />
+</p>
+
+**Productividad con IA:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openai" />
+</p>
+
+---
+
+## 📂 Proyectos Realizados
+
+### 🛒 [Wal-Fari](https://wal-fari.web.app/)
+Plataforma de ventas con una interfaz limpia y gestión eficiente de productos.
+* **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Firebase.
+* **Enfoque:** Lógica de carrito y persistencia de datos optimizada con asistencia de IA.
+
+### 📦 [LER Importaciones](https://ler-importaciones.web.app/)
+Catálogo digital interactivo diseñado para facilitar la visualización de productos importados.
+* **Tech Stack:** HTML, CSS, JavaScript, Bootstrap.
+* **Enfoque:** Diseño responsive y navegación fluida.
+
+---
+
+## 🤖 Mi metodología con IA
+Como desarrollador moderno, utilizo la **Inteligencia Artificial** como un copiloto técnico para:
+* **Optimización de Lógica:** Resolución de algoritmos en JavaScript y Python básico.
+* **Eficiencia:** Reducción de tiempos en tareas repetitivas y debugging.
+* **Escalabilidad:** Refactorización de código para asegurar que sea mantenible y limpio.
+
+---
+
+## 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeanRen&show_icons=true&theme=tokyonight&border_radius=10" alt="Estadísticas de LeanRen" />
+</p>
+
+---
+
+## 📫 Conectemos
+* **LinkedIn:** www.linkedin.com/in/leandroren
+* **Email:** leandro.ren@hotmail.com
