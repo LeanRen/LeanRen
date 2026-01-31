@@ -1,42 +1,56 @@
-# ¡Hola! Soy Lean 👋
+# ¡Hola! Soy Leandro 👋
 
-## 🚀 Sobre mí
-Soy un apasionado del desarrollo de software enfocado en crear soluciones eficientes y elegantes. Me encanta aprender nuevas tecnologías y colaborar en proyectos que desafíen mis límites.
-
-- 🔭 Actualmente estoy trabajando en: **[Tu proyecto actual]**
-- 🌱 Estoy aprendiendo: **[Tecnología que estés estudiando]**
-- 💬 Pregúntame sobre: **[Tus temas de dominio: React, Python, C++, etc.]**
-- ⚡ Dato curioso: **[Algo sobre ti: café, música, deportes, etc.]**
+### 🚀 Front End Developer | AI-Assisted Builder
+Desarrollador enfocado en crear soluciones digitales para E-commerce y plataformas interactivas. Mi metodología de trabajo integra el desarrollo Front End sólido con el uso estratégico de **Inteligencia Artificial** para optimizar la lógica de programación y acelerar la entrega de productos funcionales.
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## 🛠️ Tecnologías y Herramientas
 
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+**Desarrollo Front End & Base de Datos:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,firebase" />
+</p>
 
-### ⚙️ Backend & DB
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Otros lenguajes y Control de Versiones:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,git,github,vscode" />
+</p>
 
----
-
-## 📊 Mis Estadísticas de GitHub
-Aquí puedes ver un resumen de mi actividad:
-
-![Estadísticas de Lean](https://github-readme-stats.vercel.app/api?username=LeanRen&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LeanRen&layout=compact&theme=radical)
+**Productividad con IA:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openai" />
+</p>
 
 ---
 
-## 📫 Cómo encontrarme
-¿Quieres colaborar en un proyecto o simplemente charlar de código?
+## 📂 Proyectos Realizados
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+### 🎸 [Menganos Rock](https://menganos-rock.web.app/)
+Sitio web dinámico para la difusión de eventos y contenido musical.
+* **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Firebase.
+* **Enfoque:** Implementación de una interfaz vibrante con integración de servicios en la nube para gestión de contenido.
+
+### 🛒 [Wal-Fari](https://wal-fari.web.app/)
+Plataforma de ventas con una interfaz limpia y gestión eficiente de productos.
+* **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Firebase.
+* **Enfoque:** Lógica de carrito y persistencia de datos optimizada con asistencia de IA.
+
+### 📦 [LER Importaciones](https://ler-importaciones.web.app/)
+Catálogo digital interactivo diseñado para facilitar la visualización de productos importados.
+* **Tech Stack:** HTML, CSS, JavaScript, Bootstrap.
+* **Enfoque:** Diseño responsive y navegación fluida.
 
 ---
+
+## 🤖 Mi metodología con IA
+Como desarrollador moderno, utilizo la **Inteligencia Artificial** como un copiloto técnico para:
+* **Optimización de Lógica:** Resolución de algoritmos en JavaScript y Python básico.
+* **Eficiencia:** Reducción de tiempos en tareas repetitivas y debugging.
+* **Escalabilidad:** Refactorización de código para asegurar que sea mantenible y limpio.
+
+---
+
+## 📫 Conectemos
+* **LinkedIn:** [linkedin.com/in/leandroren](https://www.linkedin.com/in/leandroren)
+* **Email:** leandro.ren@hotmail.com
