@@ -26,6 +26,11 @@ Desarrollador enfocado en crear soluciones digitales estéticas y funcionales. M
 
 ## 📂 Proyectos Realizados
 
+### 🎸 [Menganos Rock](https://menganos-rock.web.app/)
+Sitio oficial de la banda, diseñado para transmitir la energía del rock con una interfaz moderna y directa.
+* **Tech Stack:** HTML, CSS, JavaScript, Firebase.
+* **Highlight:** Despliegue rápido con Firebase Hosting y diseño optimizado para fans en dispositivos móviles.
+
 ### 📸 [Wal-Fari](https://wal-fari.web.app/)
 Sitio web profesional para fotógrafo, diseñado para resaltar el contenido visual con una estética minimalista.
 * **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Firebase.
@@ -44,9 +49,8 @@ Utilizo la **Inteligencia Artificial** como un copiloto técnico estratégico pa
 * **Eficiencia en Debugging:** Identificación rápida de errores y mejora del rendimiento.
 * **Escalabilidad:** Refactorización de código para asegurar que sea limpio y fácil de mantener.
 
-
 ---
 
 ## 📫 Conectemos
 * **LinkedIn:** [Leandro Ren](https://www.linkedin.com/in/leandroren/)
-* **Email:** [tu-correo@ejemplo.com]
+* **Email:** [leandro.ren@hotmail.com]
