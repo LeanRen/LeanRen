@@ -1,56 +1,42 @@
-# ¡Hola! Soy Leandro 👋
+# ¡Hola! Soy Lean 👋
 
-### 🚀 Front End Developer | AI-Assisted Builder
-Desarrollador enfocado en crear soluciones digitales estéticas y funcionales. Mi metodología de trabajo integra el desarrollo Front End sólido con el uso estratégico de **Inteligencia Artificial** para optimizar la lógica de programación y acelerar la entrega de productos de alta calidad.
+## 🚀 Sobre mí
+Soy un apasionado del desarrollo de software enfocado en crear soluciones eficientes y elegantes. Me encanta aprender nuevas tecnologías y colaborar en proyectos que desafíen mis límites.
 
----
-
-## 🛠️ Tecnologías y Herramientas
-
-**Desarrollo Front End & Base de Datos:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,firebase" />
-</p>
-
-**Otros lenguajes y Control de Versiones:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,git,github,vscode" />
-</p>
-
-**Productividad con IA:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=openai" />
-</p>
+- 🔭 Actualmente estoy trabajando en: **[Tu proyecto actual]**
+- 🌱 Estoy aprendiendo: **[Tecnología que estés estudiando]**
+- 💬 Pregúntame sobre: **[Tus temas de dominio: React, Python, C++, etc.]**
+- ⚡ Dato curioso: **[Algo sobre ti: café, música, deportes, etc.]**
 
 ---
 
-## 📂 Proyectos Realizados
+## 🛠️ Mi Stack Tecnológico
 
-### 🎸 [Menganos Rock](https://menganos-rock.web.app/)
-Sitio oficial de la banda, diseñado para transmitir la energía del rock con una interfaz moderna y directa.
-* **Tech Stack:** HTML, CSS, JavaScript, Firebase.
-* **Highlight:** Despliegue rápido con Firebase Hosting y diseño optimizado para fans en dispositivos móviles.
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📸 [Wal-Fari](https://wal-fari.web.app/)
-Sitio web profesional para fotógrafo, diseñado para resaltar el contenido visual con una estética minimalista.
-* **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Firebase.
-* **Highlight:** Implementación de galerías dinámicas y optimización de carga de imágenes.
-
-### 📦 [LER Importaciones](https://ler-importaciones.web.app/)
-Catálogo digital interactivo diseñado para facilitar la visualización de productos importados.
-* **Tech Stack:** HTML, CSS, JavaScript, Bootstrap.
-* **Highlight:** Diseño 100% responsivo y navegación fluida orientada al usuario.
+### ⚙️ Backend & DB
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🤖 Mi metodología con IA
-Utilizo la **Inteligencia Artificial** como un copiloto técnico estratégico para:
-* **Optimización de Lógica:** Resolución de algoritmos en JavaScript y Python básico.
-* **Eficiencia en Debugging:** Identificación rápida de errores y mejora del rendimiento.
-* **Escalabilidad:** Refactorización de código para asegurar que sea limpio y fácil de mantener.
+## 📊 Mis Estadísticas de GitHub
+Aquí puedes ver un resumen de mi actividad:
+
+![Estadísticas de Lean](https://github-readme-stats.vercel.app/api?username=LeanRen&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LeanRen&layout=compact&theme=radical)
 
 ---
 
-## 📫 Conectemos
-* **LinkedIn:** [Leandro Ren](https://www.linkedin.com/in/leandroren/)
-* **Email:** [leandro.ren@hotmail.com]
+## 📫 Cómo encontrarme
+¿Quieres colaborar en un proyecto o simplemente charlar de código?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+
+---
